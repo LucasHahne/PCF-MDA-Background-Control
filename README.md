@@ -6,7 +6,8 @@ You won't be able to adjust the color for multiline fields or text areas. This i
 
 ## Availability ##
 You can find a short introduction on the PCF Gallery [here](https://pcf.gallery/pcf-mda-background-change-textfield/).
-The latest solution can be downloaded [here]()
+The latest solution can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFTextInput/solution)
+Make sure to download the entire solution as you have to import it as every other solution into your Power Apps.
 
 ## Using it on a MDA ##
 Import the solution into your environment.
