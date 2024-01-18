@@ -1,12 +1,18 @@
-# PCF to Change the background of a textfield in a MDA
+# PCF to Change the background of a in a Model Driven App
 ## What can be done ##
 The problem I was facing is the opportunity to change the background in fields in a model driven app. Unfortunately, there is no easy way of doing that rather than implementing a PCF.
-The PCF in this solution allows to update the background color of a **text** field. Currently only the **Single Line Textfield** is supported.
-You won't be able to adjust the color for multiline fields or text areas. This is the next step to implement and yet to come.
+The PCF in this solution allows to update the background color of a **text** field. Currently only the **Single Line Textfield**, **Whole Number** and **Decimal Number** is supported. Each one has it's own solution.
+
+## Additions ##
+- You won't be able to adjust the color for multiline fields or text areas. This is the next step to implement and yet to come.
+- Decimal fields have change buttons in the right end set to 0.5 to increase or decrease. No other steps are currently supported. 
 
 ## Availability ##
 You can find a short introduction on the PCF Gallery [here](https://pcf.gallery/pcf-mda-background-change-textfield/).
-The latest solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFTextInput/solution)
+Solutions to be downloaded:
+- **Single Line Textfield** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFTextInput/)
+- **Wholenumber field*** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
+- **Decimal field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDecimalInput/solution)
 Make sure to download the .zip as you have to import it like every other solution into your Power Apps.
 
 ## Using it on a MDA ##
