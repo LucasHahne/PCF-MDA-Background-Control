@@ -11,8 +11,9 @@ The PCF in this solution allows to update the background color of a **text** fie
 You can find a short introduction on the PCF Gallery [here](https://pcf.gallery/pcf-mda-background-change-textfield/).
 Solutions to be downloaded:
 - **Single Line Textfield** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFTextInput/)
-- **Wholenumber field*** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
+- **Wholenumber field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
 - **Decimal field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDecimalInput/solution)
+- **Date Only field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDateOnlyInput/bin/Debug)
 Make sure to download the .zip as you have to import it like every other solution into your Power Apps.
 
 ## Using it on a MDA ##
