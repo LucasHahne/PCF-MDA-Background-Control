@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbtreF4+O2FLjSMMcZ27ZueZY6sHWjnvetZk0jdxuuxdIRhUHZH9HsxnpxlB7iXf8gU5ww234tYbOkcZuHQodg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\InputDateFieldColorChange.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LucasHahne\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\LucasHahne\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\LucasHahne\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.31.2\\microsoft.powerapps.msbuild.pcf.1.31.2.nupkg.sha512",
+    "C:\\Users\\LucasHahne\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.31.2\\microsoft.powerapps.msbuild.solution.1.31.2.nupkg.sha512"
+  ],
+  "logs": []
+}
