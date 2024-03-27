@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\InputDateFieldColorChange.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\PCF.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\PCF.pcfproj",
+        "projectName": "PCF",
+        "projectPath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\PCF.pcfproj",
+        "packagesPath": "C:\\Users\\LucasHahne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LucasHahne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\InputDateFieldColorChange.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\InputDateFieldColorChange.cdsproj",
+        "projectName": "InputDateFieldColorChange",
+        "projectPath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\InputDateFieldColorChange.cdsproj",
+        "packagesPath": "C:\\Users\\LucasHahne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\Solution\\InputDateFieldColorChange\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LucasHahne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\PCF.pcfproj": {
+                "projectPath": "C:\\Users\\LucasHahne\\OneDrive - Cloudeteer GmbH\\Dokumente\\PCF\\PCF.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
