@@ -14,7 +14,7 @@ Solutions to be downloaded:
 - **Wholenumber field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
 - **Decimal field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDecimalInput/solution)
 - **Date Only field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDateOnlyInput/bin/Debug)
-- **TwoOptions field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/blob/main/ColorChangerPCFTwoOptionsInput/InputFieldTwoOptionsToChange.zip) . **Check the Details on this one below!**
+- **TwoOptions field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/blob/main/ColorChangerPCFTwoOptionsInput/InputFieldTwoOptionsToChange.zip) . **Check the details on this one below!**
 
 Make sure to download the .zip as you have to import it like every other solution into your Power Apps.
 
