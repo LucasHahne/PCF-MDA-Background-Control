@@ -29,6 +29,8 @@ For now only rgb works - no hex or hsl colors.
 
 Apply the changes and you will see the color in your field:
 ![Picture_1](https://github.com/LucasHahne/PCF-MDA-Background-Control/assets/63300977/5b529fff-e0ce-4fcd-b1be-04aec2931fdf)
+![image](https://github.com/LucasHahne/PCF-MDA-Background-Control/assets/63300977/7337b24f-aeb7-417f-a3c6-cd8febc6dcd9)
+
 
 ### Details for TwoOptions field
 ![image](https://github.com/LucasHahne/PCF-MDA-Background-Control/assets/63300977/ce52a081-db8a-4baa-b23b-36a432755403)
