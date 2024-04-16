@@ -14,6 +14,8 @@ Solutions to be downloaded:
 - **Wholenumber field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
 - **Decimal field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDecimalInput/solution)
 - **Date Only field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDateOnlyInput/bin/Debug)
+- **TwoOptions field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/blob/main/ColorChangerPCFTwoOptionsInput/InputFieldTwoOptionsToChange.zip) . **Check the Details on this one below!**
+
 Make sure to download the .zip as you have to import it like every other solution into your Power Apps.
 
 ## Using it on a MDA ##
@@ -27,5 +29,12 @@ For now only rgb works - no hex or hsl colors.
 
 Apply the changes and you will see the color in your field:
 ![Picture_1](https://github.com/LucasHahne/PCF-MDA-Background-Control/assets/63300977/5b529fff-e0ce-4fcd-b1be-04aec2931fdf)
+
+### Details for TwoOptions field
+![image](https://github.com/LucasHahne/PCF-MDA-Background-Control/assets/63300977/ce52a081-db8a-4baa-b23b-36a432755403)
+
+You will find an additional field with the language selection. Type in EN-en or DE-de as english and german are currently suppported as yes or no.
+The field cannot be applied to choices, only Yes/No fields.
+
 
 If you encounter any problem or wish more extension feel free to message me via [LinkedIn](https://www.linkedin.com/in/lucas-hahne/?locale=en_US)
