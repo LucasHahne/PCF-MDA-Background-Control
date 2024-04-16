@@ -1,10 +1,9 @@
 # PCF to Change the background of a in a Model Driven App
 ## What can be done ##
 The problem I was facing is the opportunity to change the background in fields in a model driven app. Unfortunately, there is no easy way of doing that rather than implementing a PCF.
-The PCF in this solution allows to update the background color of a **text** field. Currently only the **Single Line Textfield**, **Whole Number** and **Decimal Number** is supported. Each one has it's own solution.
+The PCF in this solution allows to update the background color of a **text** field. Each one has it's own solution.
 
 ## Additions ##
-- You won't be able to adjust the color for multiline fields or text areas. This is the next step to implement and yet to come.
 - Decimal fields have change buttons in the right end set to 0.5 to increase or decrease. No other steps are currently supported. 
 
 ## Availability ##
