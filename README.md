@@ -8,12 +8,14 @@ The PCF in this solution allows to update the background color of a **text** fie
 
 ## Availability ##
 You can find a short introduction on the PCF Gallery [here](https://pcf.gallery/pcf-mda-background-change-textfield/).
-Solutions to be downloaded:
-- **Single Line Textfield** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFTextInput/)
-- **Wholenumber field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFNumberInput/solution)
-- **Decimal field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDecimalInput/solution)
-- **Date Only field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/ColorChangerPCFDateOnlyInput/bin/Debug)
-- **TwoOptions field** solution.zip can be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/blob/main/ColorChangerPCFTwoOptionsInput/InputFieldTwoOptionsToChange.zip) . **Check the details on this one below!**
+Solutions to be downloaded [here](https://github.com/LucasHahne/PCF-MDA-Background-Control/tree/main/SolutionZips)
+There is not a managed solution for all PCFs right now. I am working on those and continuously update the repo.
+
+- **Single Line Textfield** solution.zip can be downloaded
+- **Wholenumber field** solution.zip can be downloaded 
+- **Decimal field** solution.zip can be downloaded 
+- **Date Only field** solution.zip can be downloaded 
+- **TwoOptions field** solution.zip can be downloaded **Check the details on this one below!**
 
 Make sure to download the .zip as you have to import it like every other solution into your Power Apps.
 
